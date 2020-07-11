@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19424aa44b6a6d848856b237878cd915, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: a8d91315a70609744b06fcab067a2a9b, type: 3}
+  title: "UnityEditor\u7F16\u7A0B\u793A\u4F8B"
+  sections:
+  - heading: Readme
+    text: "\u4F7F\u7528UnityEditor\uFF0C\u5B9E\u73B0\u5404\u79CD\u7F16\u8F91\u5668\u5DE5\u5177"
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: Github
+    url: https://github.com/Sarofc/UnityEditorExample
+  loadedLayout: 0
